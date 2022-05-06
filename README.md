@@ -1,4 +1,4 @@
-# fabchallenge1
+# Fab-Challenge-1
 
 ## Board game for Collboration
 
