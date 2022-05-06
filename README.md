@@ -1,6 +1,6 @@
 # Fab-Challenge-1
 
-## Board game for Collboration
+## Board game for Collaboration
 
 A board game as a tool for collaboratively generating new ideas within and the MDEF classroom and beyond. 
 
